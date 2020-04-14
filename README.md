@@ -21,7 +21,7 @@
 
 ```sh
 $ cd Bootcamp-Desafio-Fundamentos-NodeJS
-$ yarn
+$ yarn dev:server
 ```
 
 3° Rodar os testes:
