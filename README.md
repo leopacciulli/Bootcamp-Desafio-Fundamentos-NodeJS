@@ -17,7 +17,7 @@
 
 1° Clonar: `git clone https://github.com/leopacciulli/Bootcamp-Desafio-Fundamentos-NodeJS.git`
 
-2° Rodar o front end:
+2° Rodar o back end:
 
 ```sh
 $ cd Bootcamp-Desafio-Fundamentos-NodeJS
